@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="en_US">
+<context>
+    <name>squorder</name>
+    <message>
+        <location filename="squorder.ui" line="14"/>
+        <source>squorder</source>
+        <translation>Squorder</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="35"/>
+        <source>Coefficient A:</source>
+        <translation>Coefficient A:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="59"/>
+        <source>Coefficient B:</source>
+        <translation>Coefficient B:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="83"/>
+        <source>Coefficient C:</source>
+        <translation>Coefficient C:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="104"/>
+        <source>X Begin:</source>
+        <translation>Beginning of abscissa:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="128"/>
+        <source>X End:</source>
+        <translation>End of abscissa:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="152"/>
+        <source>Step:</source>
+        <translation>Accuracy:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="191"/>
+        <source>Find Root</source>
+        <translation>Find Root</translation>
+    </message>
+    <message>
+        <location filename="squorder.cpp" line="66"/>
+        <source>Roots no exitst</source>
+        <translation>No valid roots found</translation>
+    </message>
+</context>
+</TS>

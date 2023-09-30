@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ru_RU">
+<context>
+    <name>squorder</name>
+    <message>
+        <location filename="squorder.ui" line="14"/>
+        <source>squorder</source>
+        <translation>Squorder</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="35"/>
+        <source>Coefficient A:</source>
+        <translation>Коэффициент A:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="59"/>
+        <source>Coefficient B:</source>
+        <translation>Коэффициент B:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="83"/>
+        <source>Coefficient C:</source>
+        <translation>Коэффициент C:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="104"/>
+        <source>X Begin:</source>
+        <translation>Начало абсцисс:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="128"/>
+        <source>X End:</source>
+        <translation>Конец абсцисс:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="152"/>
+        <source>Step:</source>
+        <translation>Точность:</translation>
+    </message>
+    <message>
+        <location filename="squorder.ui" line="191"/>
+        <source>Find Root</source>
+        <translation>Найти корни</translation>
+    </message>
+    <message>
+        <location filename="squorder.cpp" line="66"/>
+        <source>Roots no exitst</source>
+        <translation>Нет действительныех корней</translation>
+    </message>
+</context>
+</TS>
